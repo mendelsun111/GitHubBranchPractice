@@ -1,0 +1,2 @@
+# GitHubBranchPractice
+Practicing github fundamentals 
